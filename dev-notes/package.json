@@ -1,7 +1,11 @@
 {
   "name": "dev-notes",
   "displayName": "dev.notes",
-  "description": "",
+  "description": "💡 Take quick, powerful dev notes—right from your VS Code sidebar!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zefty/dev-notes"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.99.0"

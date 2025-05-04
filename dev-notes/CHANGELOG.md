@@ -6,4 +6,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+Initial release of Dev.Notes
+
+Features:
+
+- Quick notes from the sidebar!
+- Support multiple notes
+- Textarea for jotting down your note in more detail
+- Quick delete/clear all notes
