@@ -4,6 +4,8 @@
 
 📝 Auto-saved and synced every time you close your editor.
 
+![example](./resources/example.png)
+
 ## Release Notes
 
 ### 1.0.0
